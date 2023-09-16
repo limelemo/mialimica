@@ -1,0 +1,45 @@
+body {
+    background-color: #F8C8DC;
+}
+
+header {
+    border: 2px solid pink;
+    color: pink;
+    margin: 30px 300px 10px 300px;
+    padding: 5px;
+    background-color: #FFF5EE;
+    border-radius: 10px;
+    }
+    
+.pronouns {
+  border: 1px solid #770737;
+  color: #673147;  
+  margin: 30px 300px 10px 300px;
+  background-color: #E0BFB8;
+  border-radius: 25px;
+}
+
+.aboutme {
+  border: 2px solid pink;
+    color: pink;
+    margin: 30px 300px 10px 300px;
+    padding: 5px;
+    background-color: #FFF5EE; 
+    border-radius: 10px;  
+}
+
+.stats {
+    border: 1px solid #770737;
+  color: #673147;  
+  margin: 30px 300px 10px 300px;
+  background-color: #E0BFB8;
+  border-radius: 25px;
+}
+
+button {
+margin: 10px;
+    border: 2px solid pink;
+    background-color: #FFF5EE;
+    color: pink;
+    border-radius: 10px;
+}
